@@ -58,8 +58,8 @@
 ---
 
 # 📊 GitHub Stats:
-<div align="center">
 
+<div align="center">
 <table>
   <tr>
     <td><img src="https://github-readme-stats.vercel.app/api?username=mijanur6tr&theme=dark&hide_border=false&include_all_commits=true&count_private=false" /></td>
@@ -74,18 +74,5 @@
 
 ---
 
-### 🔝 Top Contributed Repo
-<div align="center">
 
-![](https://github-contributor-stats.vercel.app/api?username=mijanur6tr&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-</div>
-
----
-
-<div align="center">
-
-[![](https://visitcount.itsvg.in/api?id=mijanur6tr&icon=0&color=0)](https://visitcount.itsvg.in)
-
-</div>
 
